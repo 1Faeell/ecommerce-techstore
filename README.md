@@ -17,7 +17,8 @@ A ideia é simular um e-commerce real de tecnologia, com **busca, filtros por ca
 
 ## 🖼️ Demonstração
 
-<img width="1080" height="600" alt="image" src="https://github.com/user-attachments/assets/cf04393e-d3fb-4fd5-87bd-626f70ebd183" />
+<img width="1080" height="600" alt="image" src="https://github.com/user-attachments/assets/d576b303-16d0-438c-884f-4cee29174964" />
+
 
 Visitar Projeto: [Projeto TechShop](https://1faeell.github.io./ecommerce-techstore/)
 

@@ -1,0 +1,76 @@
+/* ===============================
+   MEDIA QUERIES
+================================= */
+
+/* Tablets (até 768px) */
+@media (max-width: 768px) {
+  header {
+    justify-content: center;
+  }
+
+  .logo h1 {
+    font-size: 24px;
+  }
+
+  .secao-hero {
+    padding: 48px 20px;
+  }
+
+  .secao-hero h2 {
+    font-size: 1.6rem;
+  }
+  footer {
+    flex-direction: column;
+  }
+}
+
+/* Celulares (até 480px) */
+@media (max-width: 480px) {
+  header {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .container-busca {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .logo {
+    margin-bottom: 1rem;
+  }
+
+  .logo h1 {
+    font-size: 20px;
+  }
+
+  .botao-categorias {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .secao-hero {
+    padding: 32px 16px;
+  }
+
+  .secao-hero h2 {
+    font-size: 1.4rem;
+  }
+
+  .secao-hero p {
+    font-size: 1rem;
+  }
+
+  .produtos {
+    padding: 16px;
+  }
+
+  .produtos-container {
+    grid-template-columns: 1fr;
+  }
+
+  footer {
+    font-size: 12px;
+  }
+}
